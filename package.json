@@ -1,5 +1,5 @@
 {
-  "name": "travernode",
+  "name": "mernapp",
   "version": "1.0.0",
   "description": "MERN stack Shooping list",
   "main": "server.js",
